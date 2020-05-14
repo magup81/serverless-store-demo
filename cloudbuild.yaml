@@ -18,7 +18,7 @@
 steps:
 # Cloud Build Step #1: Clone source code from GitHub
 - name: 'gcr.io/cloud-builders/git'
-  args: ['clone', 'https://github.com/GoogleCloudPlatform/cloud-builders']
+  args: ['clone', 'https://github.com/magup81/serverless-store-demo']
 # Cloud Build Step #2: Replace placeholder configurations in the project with
 #                      Project specific ones from Google Cloud Storage.
 - name: 'gcr.io/cloud-builders/gcs-fetcher'
