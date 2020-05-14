@@ -1,8 +1,8 @@
 {
-    "apiKey": "YOUR-API-KEY",
-    "authDomain": "YOUR-AUTH-DOMAIN",
-    "databaseURL": "YOUR-DATABASE-URL",
-    "projectId": "YOUR-PROJECT-ID",
-    "storageBucket": "YOUR-STORAGE-BUCKET",
-    "messagingSenderId": "YOUR-MESSAGING-SENDER-ID"
+    "apiKey": "AIzaSyD3uGht_Vy27OQihf2PyHHpjs-M4oeqwT8",
+    "authDomain": "slproject1305220.firebaseapp.com",
+    "databaseURL": "https://slproject1305220.firebaseio.com",
+    "projectId": "slproject1305220",
+    "storageBucket": "slproject1305220.appspot.com",
+    "messagingSenderId": "538160886150"
 }
